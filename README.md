@@ -57,12 +57,16 @@ Make sure you have Python installed, then install the required libraries:
 
 ```bash
 pip install flask pandas beautifulsoup4 requests
+```
 
 ### Step 2 – Scrape Missing Covers
+
 Run the scraper script to download missing book covers:
 
 ```bash
 python web_scrape.py
+```
+
 ⏱ Note: This may take a few minutes depending on how many covers are missing.
 
 ### Step 3 – Start the Flask App
@@ -70,26 +74,34 @@ To launch the web interface, run the following command:
 
 ```bash
 flask --app app.py run
+```
+
 You will see a local URL in the terminal, something like:
+
 ```bash
 Running on http://127.0.0.1:5000
+```
+
 Now open your browser and add /books to that URL:
+
 ```bash
 http://127.0.0.1:5000/books
+```
+
 You’ll now see your library with all available book covers!
 
-📸 Example Output
+## 📸 Example Output
+
 The web page displays:
 
-Book cover image (or placeholder)
+- Book cover image (or placeholder)  
+- Title  
+- Author  
+- Year of publication  
+- Genre  
 
-Title
+---
 
-Author
+📌 **Author**
 
-Year of publication
-
-Genre
-
-📌 Author
 Enis Gosić
