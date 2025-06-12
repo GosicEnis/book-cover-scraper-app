@@ -1,0 +1,346 @@
+id,title,author,published,genre,cover
+1,To Kill a Mockingbird,Harper Lee,1960,Fiction,to_kill_a_mockingbird.jpg
+2,1984,George Orwell,1949,Dystopian,1984.jpg
+3,Moby Dick,Herman Melville,1851,Adventure,moby_dick.jpg
+4,War and Peace,Leo Tolstoy,1869,Historical,war_and_peace.jpg
+5,The Catcher in the Rye,J.D. Salinger,1951,Coming-of-Age,the_catcher_in_the_rye.jpg
+6,The Alchemist,Paulo Coelho,1988,Adventure,the_alchemist.jpg
+7,Pride and Prejudice,Jane Austen,1813,Romance,pride_and_prejudice.jpg
+8,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,the_great_gatsby.jpg
+9,Brave New World,Aldous Huxley,1932,Dystopian,brave_new_world.jpg
+10,The Odyssey,Homer,-800,Epic,the_odyssey.jpg
+11,The Picture of Dorian Gray,Oscar Wilde,1890,Philosophical,the_picture_of_dorian_gray.jpg
+12,Crime and Punishment,Fyodor Dostoevsky,1866,Philosophical,crime_and_punishment.jpg
+13,The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophical,the_brothers_karamazov.jpg
+14,The Hobbit,J.R.R. Tolkien,1937,Fantasy,the_hobbit.jpg
+15,Fahrenheit 451,Ray Bradbury,1953,Dystopian,fahrenheit_451.jpg
+16,Catch-22,Joseph Heller,1961,Satire,catch-22.jpg
+17,The Grapes of Wrath,John Steinbeck,1939,Fiction,the_grapes_of_wrath.jpg
+18,The Road,Cormac McCarthy,2006,Post-Apocalyptic,the_road.jpg
+19,Jane Eyre,Charlotte Brontë,1847,Romance,jane_eyre.jpg
+20,Wuthering Heights,Emily Brontë,1847,Gothic,wuthering_heights.jpg
+21,Little Women,Louisa May Alcott,1868,Coming-of-Age,little_women.jpg
+22,The Chronicles of Narnia,C.S. Lewis,1950,Fantasy,the_chronicles_of_narnia.jpg
+23,The Secret Garden,Frances Hodgson Burnett,1911,Children's,the_secret_garden.jpg
+24,The Call of the Wild,Jack London,1903,Adventure,the_call_of_the_wild.jpg
+25,The Scarlet Letter,Nathaniel Hawthorne,1850,Historical Fiction,the_scarlet_letter.jpg
+26,Anna Karenina,Leo Tolstoy,1877,Romance,anna_karenina.jpg
+27,The Handmaid's Tale,Margaret Atwood,1985,Dystopian,the_handmaid's_tale.jpg
+28,The Kite Runner,Khaled Hosseini,2003,Fiction,the_kite_runner.jpg
+29,The Fault in Our Stars,John Green,2012,Young Adult,the_fault_in_our_stars.jpg
+30,A Tale of Two Cities,Charles Dickens,1859,Historical Fiction,a_tale_of_two_cities.jpg
+31,The Count of Monte Cristo,Alexandre Dumas,1844,Adventure,the_count_of_monte_cristo.jpg
+32,The Da Vinci Code,Dan Brown,2003,Thriller,the_da_vinci_code.jpg
+33,Siddhartha,Hermann Hesse,1922,Philosophical,siddhartha.jpg
+34,The Sun Also Rises,Ernest Hemingway,1926,Fiction,the_sun_also_rises.jpg
+35,Slaughterhouse-Five,Kurt Vonnegut,1969,Sci-Fi,slaughterhouse-five.jpg
+36,The Old Man and the Sea,Ernest Hemingway,1952,Fiction,the_old_man_and_the_sea.jpg
+37,A Clockwork Orange,Anthony Burgess,1962,Dystopian,a_clockwork_orange.jpg
+38,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,Sci-Fi,the_hitchhiker's_guide_to_the_galaxy.jpg
+39,The Bell Jar,Sylvia Plath,1963,Fiction,the_bell_jar.jpg
+40,To the Lighthouse,Virginia Woolf,1927,Fiction,to_the_lighthouse.jpg
+41,Life of Pi,Yann Martel,2001,Fiction,life_of_pi.jpg
+42,The Amazing Adventures of Kavalier & Clay,Michael Chabon,2000,Fiction,the_amazing_adventures_of_kavalier_&_clay.jpg
+43,The Night Circus,Erin Morgenstern,2011,Fantasy,the_night_circus.jpg
+44,Where the Crawdads Sing,Delia Owens,2018,Fiction,where_the_crawdads_sing.jpg
+45,The Martian,Andy Weir,2011,Sci-Fi,the_martian.jpg
+46,The Book Thief,Markus Zusak,2005,Fiction,the_book_thief.jpg
+47,Educated,Tara Westover,2018,Memoir,educated.jpg
+48,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+49,The Glass Castle,Jeannette Walls,2005,Memoir,the_glass_castle.jpg
+50,Becoming,Michelle Obama,2018,Memoir,
+51,"Thinking,Fast and Slow",Daniel Kahneman,2011,Non-Fiction,"thinking,fast_and_slow.jpg"
+52,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens:_a_brief_history_of_humankind.jpg
+53,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,2012,Non-Fiction,
+54,The Subtle Art of Not Giving a F*ck,Mark Manson,2016,Non-Fiction,
+55,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,2012,Non-Fiction,quiet:_the_power_of_introverts_in_a_world_that_can't_stop_talking.jpg
+56,Grit: The Power of Passion and Perseverance,Angela Duckworth,2016,Non-Fiction,grit:_the_power_of_passion_and_perseverance.jpg
+57,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+58,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+59,The Four Agreements,Don Miguel Ruiz,1997,Self-Help,the_four_agreements.jpg
+60,Man's Search for Meaning,Viktor E. Frankl,1946,Psychology,man's_search_for_meaning.jpg
+61,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,2018,Self-Help,atomic_habits:_an_easy_&_proven_way_to_build_good_habits_&_break_bad_ones.jpg
+62,Dare to Lead,Brene Brown,2018,Self-Help,dare_to_lead.jpg
+63,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and the Middle Class Do Not,Robert T. Kiyosaki,1997,Personal Finance,
+64,The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,2003,Personal Finance,the_total_money_makeover:_a_proven_plan_for_financial_fitness.jpg
+65,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,2013,Self-Help,
+66,Awaken the Giant Within,Tony Robbins,1991,Self-Help,awaken_the_giant_within.jpg
+67,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+68,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+69,The Elements of Style,William Strunk Jr. and E.B. White,1959,Writing,the_elements_of_style.jpg
+70,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing:_a_memoir_of_the_craft.jpg
+71,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+72,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+73,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way:_a_spiritual_path_to_higher_creativity.jpg
+74,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic:_creative_living_beyond_fear.jpg
+75,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist:_10_things_nobody_told_you_about_being_creative.jpg
+76,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit:_learn_it_and_use_it_for_life.jpg
+77,The Creative's Guide to Starting a Business,Danny Iny,2014,Entrepreneurship,the_creative's_guide_to_starting_a_business.jpg
+78,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Eric Ries,2011,Entrepreneurship,
+79,"Crushing It!: How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too",Gary Vaynerchuk,2018,Entrepreneurship,
+80,"Zero to One: Notes on Startups, or How to Build the Future",Peter Thiel,2014,Entrepreneurship,"zero_to_one:_notes_on_startups,_or_how_to_build_the_future.jpg"
+81,The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers,Ben Horowitz,2014,Entrepreneurship,the_hard_thing_about_hard_things:_building_a_business_when_there_are_no_easy_answers.jpg
+82,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why:_how_great_leaders_inspire_everyone_to_take_action.jpg
+83,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great:_why_some_companies_make_the_leap..._and_others_don't.jpg
+84,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team:_a_leadership_fable.jpg
+85,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,the_innovator's_dilemma:_when_new_technologies_cause_great_firms_to_fail.jpg
+86,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage:_why_organizational_health_trumps_everything_else_in_business.jpg
+87,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive:_the_surprising_truth_about_what_motivates_us.jpg
+88,Leaders Eat Last: Why Some Teams Pull Together and Others Don't,Simon Sinek,2014,Leadership,leaders_eat_last:_why_some_teams_pull_together_and_others_don't.jpg
+89,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+90,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology,"thinking,_fast_and_slow.jpg"
+91,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+92,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+93,The Blind Watchmaker,Richard Dawkins,1986,Non-Fiction,the_blind_watchmaker.jpg
+94,A Brief History of Time,Stephen Hawking,1988,Science,a_brief_history_of_time.jpg
+95,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+96,The Grand Design,Stephen Hawking,2010,Science,the_grand_design.jpg
+97,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Brian Greene,2004,Science,"the_fabric_of_the_cosmos:_space,_time,_and_the_texture_of_reality.jpg"
+98,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality:_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+99,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science,"the_elegant_universe:_superstrings,_hidden_dimensions,_and_the_quest_for_the_ultimate_theory.jpg"
+100,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene:_an_intimate_history.jpg
+101,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies:_a_biography_of_cancer.jpg
+102,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,
+103,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,
+104,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers:_the_story_of_success.jpg
+105,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,
+106,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath:_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+107,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point:_how_little_things_can_make_a_big_difference.jpg
+108,The Art of War,Sun Tzu,5th Century BC,Military,the_art_of_war.jpg
+109,Think and Grow Rich,Napoleon Hill,1937,Self-Help,think_and_grow_rich.jpg
+110,Atomic Habits,James Clear,2018,Self-Help,atomic_habits.jpg
+111,The Road Less Traveled,M. Scott Peck,1978,Self-Help,
+112,The Man Who Knew Infinity,Robert Kanigel,1991,Biography,
+113,Silent Spring,Rachel Carson,1962,Environmental,silent_spring.jpg
+114,"Guns, Germs, and Steel",Jared Diamond,1997,History,"guns,_germs,_and_steel.jpg"
+115,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,2005,History,collapse:_how_societies_choose_to_fail_or_succeed.jpg
+116,The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,Science,the_structure_of_scientific_revolutions.jpg
+117,The Origin of Species,Charles Darwin,1859,Science,the_origin_of_species.jpg
+118,The Double Helix,James D. Watson,1968,Science,the_double_helix.jpg
+119,The Emperor's New Mind,Roger Penrose,1989,Science,the_emperor's_new_mind.jpg
+120,Quantum Mechanics: The Theoretical Minimum,Leonard Susskind,2013,Science,quantum_mechanics:_the_theoretical_minimum.jpg
+121,The Order of Time,Carlo Rovelli,2017,Science,the_order_of_time.jpg
+122,The Fabric of the Cosmos,Brian Greene,2004,Science,the_fabric_of_the_cosmos.jpg
+123,Seven Brief Lessons on Physics,Carlo Rovelli,2014,Science,
+124,Chaos: Making a New Science,James Gleick,1987,Science,chaos:_making_a_new_science.jpg
+125,Physics of the Impossible,Michio Kaku,2008,Science,physics_of_the_impossible.jpg
+126,"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",Walter Isaacson,2014,Technology,"the_innovators:_how_a_group_of_hackers,_geniuses,_and_geeks_created_the_digital_revolution.jpg"
+127,Steve Jobs,Walter Isaacson,2011,Biography,steve_jobs.jpg
+128,"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Ashlee Vance,2015,Biography,
+129,Einstein: His Life and Universe,Walter Isaacson,2007,Biography,einstein:_his_life_and_universe.jpg
+130,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,2010,Non-Fiction,
+131,The Wright Brothers,David McCullough,2015,Biography,the_wright_brothers.jpg
+132,Alexander Hamilton,Ron Chernow,2004,Biography,alexander_hamilton.jpg
+133,Grant,Ron Chernow,2017,Biography,
+134,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,2005,History,team_of_rivals:_the_political_genius_of_abraham_lincoln.jpg
+135,1776,David McCullough,2005,History,
+136,John Adams,David McCullough,2001,Biography,john_adams.jpg
+137,The Rise and Fall of the Third Reich,William L. Shirer,1960,History,the_rise_and_fall_of_the_third_reich.jpg
+138,Bury My Heart at Wounded Knee,Dee Brown,1970,History,bury_my_heart_at_wounded_knee.jpg
+139,Genghis Khan and the Making of the Modern World,Jack Weatherford,2004,History,genghis_khan_and_the_making_of_the_modern_world.jpg
+140,The Pioneers,David McCullough,2019,History,the_pioneers.jpg
+141,The Sixth Extinction: An Unnatural History,Elizabeth Kolbert,2014,Science,the_sixth_extinction:_an_unnatural_history.jpg
+142,A Short History of Nearly Everything,Bill Bryson,2003,Science,a_short_history_of_nearly_everything.jpg
+143,Cosmos,Carl Sagan,1980,Science,cosmos.jpg
+144,Pale Blue Dot: A Vision of the Human Future in Space,Carl Sagan,1994,Science,pale_blue_dot:_a_vision_of_the_human_future_in_space.jpg
+145,"The God Particle: If the Universe Is the Answer, What Is the Question?",Leon Lederman,1993,Science,
+146,The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan,1995,Science,the_demon-haunted_world:_science_as_a_candle_in_the_dark.jpg
+147,The Greatest Show on Earth: The Evidence for Evolution,Richard Dawkins,2009,Science,the_greatest_show_on_earth:_the_evidence_for_evolution.jpg
+148,The Social Contract,Jean-Jacques Rousseau,1762,Philosophy,the_social_contract.jpg
+149,On Liberty,John Stuart Mill,1859,Philosophy,on_liberty.jpg
+150,The Wealth of Nations,Adam Smith,1776,Economics,the_wealth_of_nations.jpg
+151,Das Kapital,Karl Marx,1867,Economics,das_kapital.jpg
+152,The Communist Manifesto,Karl Marx and Friedrich Engels,1848,Politics,the_communist_manifesto.jpg
+153,Animal Farm,George Orwell,1945,Dystopian,animal_farm.jpg
+154,Oryx and Crake,Margaret Atwood,2003,Dystopian,oryx_and_crake.jpg
+155,The Hunger Games,Suzanne Collins,2008,Dystopian,the_hunger_games.jpg
+156,Mockingjay,Suzanne Collins,2010,Dystopian,mockingjay.jpg
+157,The Maze Runner,James Dashner,2009,Dystopian,the_maze_runner.jpg
+158,Divergent,Veronica Roth,2011,Dystopian,divergent.jpg
+159,The Giver,Lois Lowry,1993,Dystopian,the_giver.jpg
+160,The Little Prince,Antoine de Saint-Exupéry,1943,Fiction,the_little_prince.jpg
+161,The Phantom Tollbooth,Norton Juster,1961,Fantasy,the_phantom_tollbooth.jpg
+162,Where the Wild Things Are,Maurice Sendak,1963,Children's,where_the_wild_things_are.jpg
+163,Charlotte's Web,E.B. White,1952,Children's,charlotte's_web.jpg
+164,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,harry_potter_and_the_sorcerer's_stone.jpg
+165,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasy,harry_potter_and_the_chamber_of_secrets.jpg
+166,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,Fantasy,harry_potter_and_the_prisoner_of_azkaban.jpg
+167,The Fellowship of the Ring,J.R.R. Tolkien,1954,Fantasy,the_fellowship_of_the_ring.jpg
+168,The Two Towers,J.R.R. Tolkien,1954,Fantasy,the_two_towers.jpg
+169,The Return of the King,J.R.R. Tolkien,1955,Fantasy,the_return_of_the_king.jpg
+170,Emma,Jane Austen,1815,Romance,emma.jpg
+171,Dracula,Bram Stoker,1897,Horror,dracula.jpg
+172,Frankenstein,Mary Shelley,1818,Horror,frankenstein.jpg
+173,The Metamorphosis,Franz Kafka,1915,Fiction,the_metamorphosis.jpg
+174,The Idiot,Fyodor Dostoevsky,1869,Philosophy,the_idiot.jpg
+175,Les Misérables,Victor Hugo,1862,Historical,les_misérables.jpg
+176,The Iliad,Homer,8th Century BC,Classics,the_iliad.jpg
+177,The Aeneid,Virgil,1st Century BC,Classics,the_aeneid.jpg
+178,Inferno,Dante Alighieri,1320,Classics,inferno.jpg
+179,Paradise Lost,John Milton,1667,Classics,paradise_lost.jpg
+180,Don Quixote,Miguel de Cervantes,1605,Classics,don_quixote.jpg
+181,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,Magical Realism,one_hundred_years_of_solitude.jpg
+182,Love in the Time of Cholera,Gabriel Garcia Marquez,1985,Romance,love_in_the_time_of_cholera.jpg
+183,The House of the Spirits,Isabel Allende,1982,Magical Realism,the_house_of_the_spirits.jpg
+184,The Unbearable Lightness of Being,Milan Kundera,1984,Fiction,the_unbearable_lightness_of_being.jpg
+185,Shantaram,Gregory David Roberts,2003,Fiction,shantaram.jpg
+186,A Thousand Splendid Suns,Khaled Hosseini,2007,Fiction,a_thousand_splendid_suns.jpg
+187,And the Mountains Echoed,Khaled Hosseini,2013,Fiction,and_the_mountains_echoed.jpg
+188,The Girl with the Dragon Tattoo,Stieg Larsson,2005,Mystery,the_girl_with_the_dragon_tattoo.jpg
+189,Gone Girl,Gillian Flynn,2012,Mystery,gone_girl.jpg
+190,Angels & Demons,Dan Brown,2000,Mystery,angels_&_demons.jpg
+191,The Lovely Bones,Alice Sebold,2002,Fiction,the_lovely_bones.jpg
+192,The Girl on the Train,Paula Hawkins,2015,Thriller,the_girl_on_the_train.jpg
+193,Big Little Lies,Liane Moriarty,2014,Thriller,big_little_lies.jpg
+194,Sharp Objects,Gillian Flynn,2006,Thriller,sharp_objects.jpg
+195,In Cold Blood,Truman Capote,1966,True Crime,in_cold_blood.jpg
+196,Helter Skelter,Vincent Bugliosi,1974,True Crime,helter_skelter.jpg
+197,I Know Why the Caged Bird Sings,Maya Angelou,1969,Memoir,i_know_why_the_caged_bird_sings.jpg
+198,East of Eden,John Steinbeck,1952,Fiction,east_of_eden.jpg
+199,Of Mice and Men,John Steinbeck,1937,Fiction,of_mice_and_men.jpg
+200,The Right Stuff,Tom Wolfe,1979,Space Exploration,the_right_stuff.jpg
+201,An Astronaut's Guide to Life on Earth,Chris Hadfield,2013,Space Exploration,an_astronaut's_guide_to_life_on_earth.jpg
+202,Apollo 13, Jeffrey Kluger & James Lovell,1994,Space Exploration,apollo_13.jpg
+203,"Endurance: A Year in Space, A Lifetime of Discovery", Scott Kelly,2017,Space Exploration,"endurance:_a_year_in_space,_a_lifetime_of_discovery.jpg"
+204,Failure Is Not an Option, Gene Kranz,2000,Space Exploration,
+205,Rocket Men, Robert Kurson,2018,Space Exploration,
+206,Hidden Figures, Margot Lee Shetterly,2016,Space Exploration,hidden_figures.jpg
+207,The Overview Effect, Frank White,1987,Space Exploration,
+208,The Case for Mars, Robert Zubrin,1996,Space Exploration,the_case_for_mars.jpg
+209,The Right Kind of Crazy, Adam Steltzner,2016,Space Exploration,
+210,Wanderers, Robinson Wells,2021,Space Exploration,
+211,The Last Man on the Moon, Eugene Cernan,1999,Space Exploration,
+212,Riding Rockets, Mike Mullane,2006,Space Exploration,riding_rockets.jpg
+213,Lost Moon, Jeffrey Kluger & James Lovell,1994,Space Exploration,lost_moon.jpg
+214,Moon Shot, Alan Shepard & Deke Slayton,1994,Space Exploration,
+215,Packing for Mars, Mary Roach,2010,Space Exploration,packing_for_mars.jpg
+216,A Man on the Moon, Andrew Chaikin,1994,Space Exploration,a_man_on_the_moon.jpg
+217,Chasing Space, Leland Melvin,2017,Space Exploration,
+218,Rocket Boys, Homer Hickam,1998,Space Exploration,rocket_boys.jpg
+219,Beyond Earth, Charles Wohlforth & Amanda Hendrix,2016,Space Exploration,beyond_earth.jpg
+220,The Sky Below, Scott Parazynski,2017,Space Exploration,the_sky_below.jpg
+221,Astrophysics for People in a Hurry, Neil deGrasse Tyson,2017,Space Exploration,astrophysics_for_people_in_a_hurry.jpg
+222,Moonwalk, Michael Jackson,1988,Space Exploration,moonwalk.jpg
+223,The Apollo Murders, Chris Hadfield,2021,Space Exploration,the_apollo_murders.jpg
+224,Space Chronicles, Neil deGrasse Tyson,2012,Space Exploration,space_chronicles.jpg
+225,The Orbital Perspective, Ron Garan,2015,Space Exploration,
+226,The Moon Is a Harsh Mistress, Robert A. Heinlein,1966,Space Exploration,the_moon_is_a_harsh_mistress.jpg
+227,The Future of Humanity, Michio Kaku,2018,Space Exploration,the_future_of_humanity.jpg
+228,How We Got to the Moon, John Rocco,2020,Space Exploration,
+229,Mission to Mars, Buzz Aldrin,2013,Space Exploration,mission_to_mars.jpg
+230,Apollo 8, Jeffrey Kluger,2017,Space Exploration,
+231,First Man, James R. Hansen,2005,Space Exploration,first_man.jpg
+232,Infinite Worlds, Michael Carroll,2015,Space Exploration,infinite_worlds.jpg
+233,Spaceman, Mike Massimino,2016,Space Exploration,
+234,Mars Direct, Robert Zubrin,2013,Space Exploration,
+235,The Infinite View, Ellen Mahoney,2015,Space Exploration,
+236,The New Right Stuff, Loretta Hidalgo Whitesides,2020,Space Exploration,
+237,Apollo to the Moon, Teasel Muir-Harmony,2018,Space Exploration,apollo_to_the_moon.jpg
+238,Mission Control, David Carey,2006,Space Exploration,
+239,Into That Silent Sea, Francis French,2007,Space Exploration,into_that_silent_sea.jpg
+240,Rocket Science for Babies, Chris Ferrie,2013,Space Exploration,rocket_science_for_babies.jpg
+241,The Interstellar Age, Jim Bell,2015,Space Exploration,the_interstellar_age.jpg
+242,Our Cosmic Origins, Armand Delsemme,1998,Space Exploration,
+243,The Race, James Schefter,1999,Space Exploration,the_race.jpg
+244,Apollo 11, David Whitehouse,2019,Space Exploration,
+245,Countdown, Alan Weisman,2014,Space Exploration,countdown.jpg
+246,Rise of the Rocket Girls, Nathalia Holt,2016,Space Exploration,rise_of_the_rocket_girls.jpg
+247,Moonbound, Jonathan Fetter-Vorm,2019,Space Exploration,moonbound.jpg
+248,Things Fall Apart,Chinua Achebe,1958,Novel,things_fall_apart.jpg
+249,The Divine Comedy,Dante Alighieri,1320,Epic,the_divine_comedy.jpg
+250,Father Goriot,Honor� de Balzac,1835,Novel,father_goriot.jpg
+251,The Decameron,Giovanni Boccaccio,1353,Short Story Collection,the_decameron.jpg
+252,Ficciones,Jorge Luis Borges,1944,Short Story Collection,ficciones.jpg
+253,The Stranger,Albert Camus,1942,Novel,the_stranger.jpg
+254,Journey to the End of the Night,Louis-Ferdinand C�line,1932,Novel,journey_to_the_end_of_the_night.jpg
+255,Short Stories,Anton Chekhov,1886,Short Story Collection,short_stories.jpg
+256,Nostromo,Joseph Conrad,1904,Novel,nostromo.jpg
+257,Great Expectations,Charles Dickens,1861,Novel,great_expectations.jpg
+258,Jacques the Fatalist,Denis Diderot,1796,Novel,jacques_the_fatalist.jpg
+259,Demons,Fyodor Dostoevsky,1872,Novel,demons.jpg
+260,Pale Fire,Vladimir Nabokov,1962,Novel,pale_fire.jpg
+261,Ulysses,James Joyce,1922,Novel,ulysses.jpg
+262,The Trial,Franz Kafka,1925,Novel,the_trial.jpg
+263,The Castle,Franz Kafka,1926,Novel,the_castle.jpg
+264,Quichotte,Salman Rushdie,2019,Novel,quichotte.jpg
+265,Chronicle of a Death Foretold,Gabriel Garcia Marquez,1981,Novel,chronicle_of_a_death_foretold.jpg
+266,The Autumn of the Patriarch,Gabriel Garcia Marquez,1975,Novel,the_autumn_of_the_patriarch.jpg
+267,No One Writes to the Colonel,Gabriel Garcia Marquez,1961,Novel,
+268,Lord of the Flies,William Golding,1954,Novel,lord_of_the_flies.jpg
+269,The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy,the_lord_of_the_rings.jpg
+270,Harry Potter and the Goblet of Fire,J.K. Rowling,2000,Fantasy,harry_potter_and_the_goblet_of_fire.jpg
+271,Harry Potter and the Order of the Phoenix,J.K. Rowling,2003,Fantasy,harry_potter_and_the_order_of_the_phoenix.jpg
+272,Harry Potter and the Half-Blood Prince,J.K. Rowling,2005,Fantasy,harry_potter_and_the_half-blood_prince.jpg
+273,Harry Potter and the Deathly Hallows,J.K. Rowling,2007,Fantasy,harry_potter_and_the_deathly_hallows.jpg
+274,A Game of Thrones,George R.R. Martin,1996,Fantasy,a_game_of_thrones.jpg
+275,A Clash of Kings,George R.R. Martin,1998,Fantasy,a_clash_of_kings.jpg
+276,A Storm of Swords,George R.R. Martin,2000,Fantasy,a_storm_of_swords.jpg
+277,A Feast for Crows,George R.R. Martin,2005,Fantasy,a_feast_for_crows.jpg
+278,A Dance with Dragons,George R.R. Martin,2011,Fantasy,a_dance_with_dragons.jpg
+279,A Song of Ice and Fire,George R.R. Martin,1996,Fantasy,
+280,Sense and Sensibility,Jane Austen,1811,Novel,sense_and_sensibility.jpg
+281,Les Mis�rables,Victor Hugo,1862,Historical Novel,les_mis�rables.jpg
+282,The Hunchback of Notre-Dame,Victor Hugo,1831,Gothic Novel,the_hunchback_of_notre-dame.jpg
+283,The Adventures of Augie March,Saul Bellow,1953,Novel,the_adventures_of_augie_march.jpg
+284,All the King's Men,Robert Penn Warren,1946,Political Novel,all_the_king's_men.jpg
+285,American Pastoral,Philip Roth,1997,Novel,american_pastoral.jpg
+286,An American Tragedy,Theodore Dreiser,1925,Tragedy,an_american_tragedy.jpg
+287,Appointment in Samarra,John O'Hara,1934,Novel,appointment_in_samarra.jpg
+288,"Are You There God? It's Me, Margaret",Judy Blume,1970,Young Adult,
+289,The Assistant,Bernard Malamud,1957,Novel,the_assistant.jpg
+290,At Swim-Two-Birds,Flann O'Brien,1939,Experimental Novel,at_swim-two-birds.jpg
+291,Atonement,Ian McEwan,2001,Novel,atonement.jpg
+292,Beloved,Toni Morrison,1987,Novel,beloved.jpg
+293,The Berlin Stories,Christopher Isherwood,1945,Short Story Collection,the_berlin_stories.jpg
+294,The Big Sleep,Raymond Chandler,1939,Crime Novel,the_big_sleep.jpg
+295,The Blind Assassin,Margaret Atwood,2000,Novel,the_blind_assassin.jpg
+296,Blood Meridian,Cormac McCarthy,1985,Western,blood_meridian.jpg
+297,The Bridge of San Luis Rey,Thornton Wilder,1927,Novel,the_bridge_of_san_luis_rey.jpg
+298,Call It Sleep,Henry Roth,1934,Novel,call_it_sleep.jpg
+299,The Confessions of Nat Turner,William Styron,1967,Historical Novel,the_confessions_of_nat_turner.jpg
+300,The Corrections,Jonathan Franzen,2001,Novel,the_corrections.jpg
+301,The Crying of Lot 49,Thomas Pynchon,1966,Postmodern Novel,the_crying_of_lot_49.jpg
+302,A Dance to the Music of Time,Anthony Powell,1951�1975,Serialized Novel,a_dance_to_the_music_of_time.jpg
+303,The Day of the Locust,Nathanael West,1939,Novel,the_day_of_the_locust.jpg
+304,Death Comes for the Archbishop,Willa Cather,1927,Historical Novel,death_comes_for_the_archbishop.jpg
+305,A Death in the Family,James Agee,1957,Novel,a_death_in_the_family.jpg
+306,The Death of the Heart,Elizabeth Bowen,1938,Novel,the_death_of_the_heart.jpg
+307,Deliverance,James Dickey,1970,Adventure Novel,deliverance.jpg
+308,Dog Soldiers,Robert Stone,1974,War Novel,dog_soldiers.jpg
+309,Falconer,John Cheever,1977,Novel,
+310,The French Lieutenant's Woman,John Fowles,1969,Historical Novel,
+311,The Golden Notebook,Doris Lessing,1962,Novel,the_golden_notebook.jpg
+312,Go Tell It on the Mountain,James Baldwin,1953,Semi-Autobiographical Novel,go_tell_it_on_the_mountain.jpg
+313,Gone with the Wind,Margaret Mitchell,1936,Historical Romance,
+314,Gravity's Rainbow,Thomas Pynchon,1973,Postmodern Novel,gravity's_rainbow.jpg
+315,A Handful of Dust,Evelyn Waugh,1934,Satirical Novel,a_handful_of_dust.jpg
+316,The Heart Is a Lonely Hunter,Carson McCullers,1940,Novel,the_heart_is_a_lonely_hunter.jpg
+317,Herzog,Saul Bellow,1964,Novel,herzog.jpg
+318,Housekeeping,Marilynne Robinson,1980,Novel,housekeeping.jpg
+319,A House for Mr. Biswas,V.S. Naipaul,1961,Novel,a_house_for_mr._biswas.jpg
+320,"I, Claudius",Robert Graves,1934,Historical Novel,"i,_claudius.jpg"
+321,Infinite Jest,David Foster Wallace,1996,Postmodern Novel,infinite_jest.jpg
+322,Invisible Man,Ralph Ellison,1952,Novel,invisible_man.jpg
+323,Light in August,William Faulkner,1932,Novel,light_in_august.jpg
+324,"The Lion, the Witch and the Wardrobe",C.S. Lewis,1950,Fantasy,"the_lion,_the_witch_and_the_wardrobe.jpg"
+325,Lolita,Vladimir Nabokov,1955,Novel,lolita.jpg
+326,Loving,Henry Green,1945,Novel,loving.jpg
+327,Lucky Jim,Kingsley Amis,1954,Comedy Novel,lucky_jim.jpg
+328,The Man Who Loved Children,Christina Stead,1940,Novel,the_man_who_loved_children.jpg
+329,Midnight's Children,Salman Rushdie,1981,Magic Realism,midnight's_children.jpg
+330,Money,Martin Amis,1984,Satirical Novel,money.jpg
+331,Mrs. Dalloway,Virginia Woolf,1925,Novel,mrs._dalloway.jpg
+332,Naked Lunch,William S. Burroughs,1959,Avant-Garde Novel,naked_lunch.jpg
+333,Native Son,Richard Wright,1940,Novel,native_son.jpg
+334,Neuromancer,William Gibson,1984,Cyberpunk Novel,neuromancer.jpg
+335,Never Let Me Go,Kazuo Ishiguro,2005,Dystopian Fiction,never_let_me_go.jpg
+336,On the Road,Jack Kerouac,1957,Beat Generation Novel,on_the_road.jpg
+337,One Flew Over the Cuckoo's Nest,Ken Kesey,1962,Novel,one_flew_over_the_cuckoo's_nest.jpg
+338,A Room with a View,E.M. Forster,1908,Romance,a_room_with_a_view.jpg
+339,Song of Solomon,Toni Morrison,1977,Novel,song_of_solomon.jpg
+340,Their Eyes Were Watching God,Zora Neale Hurston,1937,Novel,their_eyes_were_watching_god.jpg
+341,White Noise,Don DeLillo,1985,Postmodern Novel,white_noise.jpg
+342,Wide Sargasso Sea,Jean Rhys,1966,Prequel Novel,wide_sargasso_sea.jpg
+343,The Wind-Up Bird Chronicle,Haruki Murakami,1994,Magical Realism,the_wind-up_bird_chronicle.jpg
+344,Women in Love,D.H. Lawrence,1920,Novel,women_in_love.jpg
+345,Zorba the Greek,Nikos Kazantzakis,1946,Philosophical Novel,zorba_the_greek.jpg
