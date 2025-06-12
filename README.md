@@ -21,15 +21,14 @@ The application automates the process of retrieving missing book covers for a li
 
 ## 🗂️ Project Structure
 
-├── books.csv # Dataset with book info: title, author, genre, etc.
-├── web_scrape.py # Web scraper to fetch missing cover images
-├── app.py # Flask app to display books
-├── static/
-│ └── covers/ # Folder for downloaded cover images
-│ └── book-cover-placeholder.jpg # Default image for missing covers
-├── templates/
-│ └── books.html # HTML template for book display
-
+- `books.csv` — Dataset with book info: title, author, genre, etc.
+- `web_scrape.py` — Web scraper to fetch missing cover images
+- `app.py` — Flask app to display books
+- `static/`
+  - `covers/` — Folder for downloaded cover images
+  - `book-cover-placeholder.jpg` # Default image for missing covers
+- `templates/`
+  - `books.html` — HTML template for book display
 ---
 
 ## ⚙️ How It Works
