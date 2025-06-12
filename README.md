@@ -102,6 +102,6 @@ The web page displays:
 
 ---
 
-📌 **Author**
+## 📌 Author
 
-Enis Gosić
+**Enis Gosić**
