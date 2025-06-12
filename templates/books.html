@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Library</title>
+
+    <style>
+        body{
+
+            font-family: sans-serif;
+            background-color: #f7f7f7;
+
+        }
+
+        #books-grid{
+            background-color: #ffffff;
+            width: 1030px;
+
+            border: 1px solid #e3e3e3;
+            border-radius: 10px;
+
+            padding: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .book-text-container{
+            display: inline-block;
+            width: 200px;
+            vertical-align: top;
+            padding-left: 6px;
+        }
+
+        img{
+            box-shadow: 1px 2px 5px 0 #c3b683;
+            border-radius: 10px;
+
+            height: 200px;
+            width: 128px;
+            object-fit: cover;
+            margin-bottom: 30px;
+        }
+
+        h3{
+            margin-top: 0px;
+        }
+
+        p{
+            margin: 2px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div id="books-grid">
+
+        {% for book in books %}
+
+        {% if book['cover'] == '' %}
+        <img src="/static/covers/book-cover-placeholder.jpg" alt="{{ book["title"] }} cover">
+        {% else %}
+        <img src="/static/covers/{{ book['cover'] }}" alt="{{ book['title'] }} cover">
+        
+        {% endif %}
+ 
+        <div class="book-text-container">
+            <h3>{{ book['title'] }}</h3>
+            <p>{{ book['author'] }}</p>
+            <p>{{ book['published'] }}</p>
+            <p>{{ book['genre'] }}</p>
+        </div>
+        {% endfor %}
+
+    </div>
+
+</body>
+</html>
