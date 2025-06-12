@@ -26,7 +26,7 @@ The application automates the process of retrieving missing book covers for a li
 - `app.py` — Flask app to display books
 - `static/`
   - `covers/` — Folder for downloaded cover images
-    - `book-cover-placeholder.jpg` # Default image for missing covers
+   - `book-cover-placeholder.jpg` # Default image for missing covers
 - `templates/`
   - `books.html` — HTML template for book display
 ---
